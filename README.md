@@ -150,6 +150,6 @@ Competitive programmer — **Top 15% Meta Hacker Cup 2024**.
 <div align="center">
 
 
-*Proudly built with 🖤 — [deepsr2003](https://github.com/deepsr2003)*
+*by — [deepsr2003](https://github.com/deepsr2003)*
 
 </div>
