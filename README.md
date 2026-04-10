@@ -128,11 +128,11 @@ Competitive programmer — **Top 15% Meta Hacker Cup 2024**.
 
 <div align="center">
 
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepsr2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+![GitHub Stats](./stats-card.svg)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=deepsr2003&theme=dark&hide_border=false)
+![GitHub Streak](./streak-card.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsr2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](./langs-card.svg)
 
 </div>
 
