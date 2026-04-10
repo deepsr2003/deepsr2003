@@ -1,0 +1,57 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .big-num  { font: 700 28px 'Segoe UI', sans-serif; fill: #e4e2e2; }
+    .label    { font: 400 13px 'Segoe UI', sans-serif; fill: #9f9f9f; }
+    .date     { font: 400 11px 'Segoe UI', sans-serif; fill: #9f9f9f; }
+    .accent   { fill: #f78166; }
+    .divider  { stroke: #30363d; stroke-width: 1; }
+  </style>
+
+  <!-- BACKGROUND -->
+  <rect width="495" height="195" rx="4.5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+  <!-- DIVIDER LINES -->
+  <line x1="165" y1="28" x2="165" y2="170" class="divider"/>
+  <line x1="330" y1="28" x2="330" y2="170" class="divider"/>
+
+  <!-- =====================================================
+       SECTION 1 — TOTAL CONTRIBUTIONS
+       ===================================================== -->
+  <text x="82" y="65" class="big-num" text-anchor="middle">
+    <!-- ★ UPDATE THIS: change "47" to your total contributions this year -->
+    47
+  </text>
+  <text x="82" y="88" class="label" text-anchor="middle">Total Contributions</text>
+  <!-- ★ UPDATE THIS: change the date range below (Jan 1 = start of year, Apr 10 = today) -->
+  <text x="82" y="104" class="date" text-anchor="middle">Jan 1, 2026 – Apr 10, 2026</text>
+
+  <!-- FIRE ICON for total -->
+  <text x="82" y="140" font-size="28" text-anchor="middle">🔥</text>
+
+  <!-- =====================================================
+       SECTION 2 — CURRENT STREAK
+       ===================================================== -->
+  <!-- ★ UPDATE THIS: change "3" to your current streak in days -->
+  <text x="247" y="65" class="big-num" text-anchor="middle">3</text>
+  <text x="247" y="88" class="label" text-anchor="middle">Current Streak</text>
+  <!-- ★ UPDATE THIS: change dates to your actual streak start → today -->
+  <text x="247" y="104" class="date" text-anchor="middle">Apr 8 – Apr 10, 2026</text>
+
+  <!-- FLAME ICON -->
+  <text x="247" y="140" font-size="28" text-anchor="middle">⚡</text>
+
+  <!-- =====================================================
+       SECTION 3 — LONGEST STREAK
+       ===================================================== -->
+  <!-- ★ UPDATE THIS: change "7" to your all-time longest streak -->
+  <text x="412" y="65" class="big-num" text-anchor="middle">7</text>
+  <text x="412" y="88" class="label" text-anchor="middle">Longest Streak</text>
+  <!-- ★ UPDATE THIS: change dates to your actual longest streak window -->
+  <text x="412" y="104" class="date" text-anchor="middle">Aug 26 – Sep 1, 2025</text>
+
+  <!-- TROPHY ICON -->
+  <text x="412" y="140" font-size="28" text-anchor="middle">🏆</text>
+
+  <!-- BOTTOM LABEL -->
+  <text x="247" y="182" class="date" text-anchor="middle">deepsr2003 · GitHub Streak</text>
+</svg>
