@@ -1,0 +1,92 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title  { font: 600 18px 'Segoe UI', sans-serif; fill: #e4e2e2; }
+    .lang   { font: 400 13px 'Segoe UI', sans-serif; fill: #e4e2e2; }
+    .pct    { font: 700 13px 'Segoe UI', sans-serif; fill: #9f9f9f; }
+  </style>
+
+  <!-- BACKGROUND -->
+  <rect width="495" height="195" rx="4.5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+  <!-- TITLE -->
+  <text x="25" y="35" class="title">Most Used Languages</text>
+
+  <!-- =====================================================
+       PROGRESS BAR — made of colored segments.
+       Each rect's width is proportional to the percentage.
+       Total bar width = 445px (x=25 to x=470).
+
+       ★ HOW TO UPDATE: change each rect's width so they
+         all add up to 445. Change fill to match language color.
+         Change the label text and percentage below too.
+
+       CURRENT BREAKDOWN (based on your repos):
+         C++        → 86.5% of low-latency-engine → ~38% overall
+         Python     → fraud-pipeline, fama-french, architect → ~32%
+         JavaScript → nexus-pipe, portfolio → ~16%
+         Java       → spring-crypto → ~8%
+         Other      → CSS, HTML, CMake etc → ~6%
+       ===================================================== -->
+
+  <!-- BAR SEGMENTS — widths must sum to 445 -->
+  <!-- ★ C++ — color #f34b7d -->
+  <rect x="25"   y="50" width="169" height="8" rx="4" fill="#f34b7d"/>
+  <!-- ★ Python — color #3572A5 -->
+  <rect x="194"  y="50" width="142" height="8" rx="0" fill="#3572A5"/>
+  <!-- ★ JavaScript — color #f1e05a -->
+  <rect x="336"  y="50" width="71"  height="8" rx="0" fill="#f1e05a"/>
+  <!-- ★ Java — color #b07219 -->
+  <rect x="407"  y="50" width="36"  height="8" rx="0" fill="#b07219"/>
+  <!-- ★ Other — color #555555 -->
+  <rect x="443"  y="50" width="27"  height="8" rx="4" fill="#555555"/>
+
+  <!-- =====================================================
+       LANGUAGE LABELS — two columns, 3 rows each
+       Each entry: colored dot · name · percentage
+       ★ UPDATE: change dot fill color, name text, and % text
+       ===================================================== -->
+
+  <!-- COL 1 -->
+  <!-- C++ -->
+  <circle cx="35"  cy="90" r="5" fill="#f34b7d"/>
+  <text x="46"  y="94" class="lang">C++</text>
+  <!-- ★ UPDATE % -->
+  <text x="120" y="94" class="pct">38.00%</text>
+
+  <!-- Python -->
+  <circle cx="35"  cy="115" r="5" fill="#3572A5"/>
+  <text x="46"  y="119" class="lang">Python</text>
+  <!-- ★ UPDATE % -->
+  <text x="120" y="119" class="pct">31.90%</text>
+
+  <!-- JavaScript -->
+  <circle cx="35"  cy="140" r="5" fill="#f1e05a"/>
+  <text x="46"  y="144" class="lang">JavaScript</text>
+  <!-- ★ UPDATE % -->
+  <text x="120" y="144" class="pct">16.00%</text>
+
+  <!-- COL 2 -->
+  <!-- Java -->
+  <circle cx="260" cy="90" r="5" fill="#b07219"/>
+  <text x="271" y="94" class="lang">Java</text>
+  <!-- ★ UPDATE % -->
+  <text x="345" y="94" class="pct">8.10%</text>
+
+  <!-- TypeScript -->
+  <circle cx="260" cy="115" r="5" fill="#3178c6"/>
+  <text x="271" y="119" class="lang">TypeScript</text>
+  <!-- ★ UPDATE % -->
+  <text x="345" y="119" class="pct">4.00%</text>
+
+  <!-- Other -->
+  <circle cx="260" cy="140" r="5" fill="#555555"/>
+  <text x="271" y="144" class="lang">Other</text>
+  <!-- ★ UPDATE % -->
+  <text x="345" y="144" class="pct">2.00%</text>
+
+  <!-- BOTTOM LABEL -->
+  <text x="247" y="182" text-anchor="middle"
+        font-size="11" font-family="Segoe UI, sans-serif" fill="#9f9f9f">
+    deepsr2003 · Top Languages
+  </text>
+</svg>
