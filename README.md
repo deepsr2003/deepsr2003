@@ -149,7 +149,6 @@ Competitive programmer — **Top 15% Meta Hacker Cup 2024**.
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=deepsr2003&icon=0&color=0)
 
 *Proudly built with 🖤 — [deepsr2003](https://github.com/deepsr2003)*
 
