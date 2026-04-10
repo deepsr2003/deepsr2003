@@ -2,7 +2,7 @@
 
 # Hey, I'm Deep Sarkar 👋
 
-**Backend & Systems Engineer · NIT Rourkela · Backend Developer · Opensource Contributor **
+## Backend & Systems Engineer · NIT Rourkela · Backend Developer · Opensource Contributor 
 
 🎓 B.Tech @ NIT Rourkela &nbsp;|&nbsp; 🌍 India &nbsp;|&nbsp; 🔭 Currently exploring AI agents & systems design
 
