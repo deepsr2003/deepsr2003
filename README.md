@@ -142,7 +142,7 @@ Competitive programmer — **Top 15% Meta Hacker Cup 2024**.
 
 - 🥇 **Meta Hacker Cup 2024** — Top 15% Global (Rank 7,647 Round 1 · 1,092nd Practice Round) out of 50,000+ programmers
 - 🌍 **Google Developer Groups Solution Challenge 2025** — Selected for AI-powered disaster management solution
-- 📈 **Codeforces** — Top 16% globally (6.8k / 42k+) in Div. 2 rounds
+- 📈 **Codeforces** — Top 1% globally (125/ 10k+) in Div. 2 rounds
 - 🎓 **Technical Mentor** — Guided 50+ junior developers in distributed systems & backend architecture at NIT Rourkela
 
 ---
