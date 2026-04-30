@@ -34,12 +34,12 @@ Competitive programmer — **Top 15% Meta Hacker Cup 2024**.
 
 | Project | Stack | What it does |
 |--------|-------|--------------|
-| [**low-latency-matching-engine**](https://github.com/deepsr2003/low-latency-matching-engine) | C++17, mmap, Bitmaps | HFT-style order book — 70x throughput gain, sub-100ms latency via lock-free pools + compiler intrinsics |
-| [**real-time-fraud-pipeline**](https://github.com/deepsr2003/real-time-fraud-pipeline) | Python, XGBoost, Kafka, Grafana | End-to-end MLOps pipeline detecting fraudulent transactions with millisecond-level inference |
-| [**nexus-pipe-analytics**](https://github.com/deepsr2003/nexus-pipe-analytics) | Node.js, Python, Kafka, Redis | Distributed fault-tolerant event pipeline with real-time dashboards and WebSocket query API |
-| [**architect**](https://github.com/deepsr2003/architect) | Python, CrewAI, Groq, FastAPI | Multi-agent SDLC automator — turns business objectives into full technical specs via Llama-3.3-70B |
-| [**fama-french-replication**](https://github.com/deepsr2003/fama-french-replication) | Python, Pandas, Statsmodels | Quant finance — replicates SMB & HML factors with statistical analysis on 2015–2023 market data |
-| [**spring-crypto-price-tracker**](https://github.com/deepsr2003/spring-crypto-price-tracker) | Java 25, Spring Boot, WebSockets | Real-time crypto price streaming via STOMP WebSockets + CoinMarketCap API |
+| [**low-latency-matching-engine**](https://github.com/dsarkar10/low-latency-matching-engine) | C++17, mmap, Bitmaps | HFT-style order book — 70x throughput gain, sub-100ms latency via lock-free pools + compiler intrinsics |
+| [**real-time-fraud-pipeline**](https://github.com/dsarkar10/real-time-fraud-pipeline) | Python, XGBoost, Kafka, Grafana | End-to-end MLOps pipeline detecting fraudulent transactions with millisecond-level inference |
+| [**nexus-pipe-analytics**](https://github.com/dsarkar10/nexus-pipe-analytics) | Node.js, Python, Kafka, Redis | Distributed fault-tolerant event pipeline with real-time dashboards and WebSocket query API |
+| [**architect**](https://github.com/dsarkar10/architect) | Python, CrewAI, Groq, FastAPI | Multi-agent SDLC automator — turns business objectives into full technical specs via Llama-3.3-70B |
+| [**fama-french-replication**](https://github.com/dsarkar10/fama-french-replication) | Python, Pandas, Statsmodels | Quant finance — replicates SMB & HML factors with statistical analysis on 2015–2023 market data |
+| [**spring-crypto-price-tracker**](https://github.com/dsarkar10/spring-crypto-price-tracker) | Java 25, Spring Boot, WebSockets | Real-time crypto price streaming via STOMP WebSockets + CoinMarketCap API |
 
 ---
 
