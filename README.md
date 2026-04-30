@@ -147,6 +147,6 @@ Competitive programmer — **Top 15% Meta Hacker Cup 2024**.
 <div align="center">
 
 
-*by — [deepsr2003](https://github.com/dsarkar10)*
+*by — [dsarkar10](https://github.com/dsarkar10)*
 
 </div>
