@@ -34,6 +34,7 @@ Competitive programmer — **Top 15% Meta Hacker Cup 2024**.
 
 | Project | Stack | What it does |
 |--------|-------|--------------|
+| [**SynchroStream-ML**](https://github.com/dsarkar10/synchro-stream-ml) | FastAPI, Nivo Heatmap, Recharts, NPS Engine, PyTorch, pydantic | A Decision Support System for MLOps: Quantifying Data-to-Model Conflict to Prevent Catastrophic Forgetting in Recurring Data Streams |
 | [**low-latency-matching-engine**](https://github.com/dsarkar10/low-latency-matching-engine) | C++17, mmap, Bitmaps | HFT-style order book — 70x throughput gain, sub-100ms latency via lock-free pools + compiler intrinsics |
 | [**real-time-fraud-pipeline**](https://github.com/dsarkar10/real-time-fraud-pipeline) | Python, XGBoost, Kafka, Grafana | End-to-end MLOps pipeline detecting fraudulent transactions with millisecond-level inference |
 | [**nexus-pipe-analytics**](https://github.com/dsarkar10/nexus-pipe-analytics) | Node.js, Python, Kafka, Redis | Distributed fault-tolerant event pipeline with real-time dashboards and WebSocket query API |
