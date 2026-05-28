@@ -2,7 +2,7 @@
 
 # Hey, I'm Deep Sarkar 👋
 
-## Backend & Systems Engineer · AI Researcher | Author of SynchroStream-ML (Under Review @ Elsevier) · NIT Rourkela '26 · Opensource Contributor 
+## Backend & Systems Engineer · AI Researcher | Author of SynchroStream-ML (Under Review @ Elsevier - Manuscript number ASOC-D-26-08088) · NIT Rourkela '26 · Opensource Contributor 
 
 🎓 B.Tech @ NIT Rourkela &nbsp;|&nbsp; 🌍 India &nbsp;|&nbsp; 🔭 Currently exploring AI agents & systems design
 
